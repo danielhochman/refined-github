@@ -1,0 +1,10 @@
+/*!
+ * mi-cron
+ *
+ * A microscopic parser for standard cron expressions.
+ *
+ * Copyright (c) 2020-present, cheap glitch
+ * This software is distributed under the ISC license
+ */
+
+/*! npm.im/filter-altered-clicks */
